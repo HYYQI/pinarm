@@ -1,0 +1,6 @@
+{
+    "markdown.validate.enabled": true,
+    "markdown.validate.ignoredLinks": [
+        "#管理器\\(pinarm\\)"
+    ]
+}
