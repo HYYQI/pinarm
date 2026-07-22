@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+BINARY_FILE_PATH="/usr/bin/pinarm"
+exec $BINARY_FILE_PATH "$@"
