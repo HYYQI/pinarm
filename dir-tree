@@ -1,0 +1,32 @@
+.
+├── bin -> usr/bin
+├── DEBIAN
+│   ├── control
+│   └── md5sums
+├── lib -> usr/lib
+├── lib64 -> usr/lib64
+├── usr
+│   ├── bin
+│   │   ├── bash
+│   │   └── sh -> bash
+│   ├── lib
+│   │   └── x86_64-linux-gnu
+│   │       ├── libtinfo.so.6 -> libtinfo.so.6.5
+│   │       ├── libtinfo.so.6.5
+│   │       ├── libc.so.6
+│   │       └── ld-linux-x86-64.so.2
+│   ├── lib64
+│   │   └── ld-linux-x86-64.so.2 -> ../lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+│   └── share
+│       ├── locale
+│       ├── i18n
+│       └── terminfo
+├── dev
+├── proc
+├── sys
+└── etc
+    ├── hosts
+    ├── passwd
+    ├── group
+    └── resolv.conf
+

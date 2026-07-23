@@ -1,0 +1,12 @@
+/usr/share/terminfo
+/dev  --rbind
+/proc
+/sys
+/usr/share/locale
+/usr/share/i18n
+/etc/recolv.conf
+/etc/hosts
+/etc/passwd
+/etc/group
+/usr/bin/bash
+/usr/bin/sh -> bash
